@@ -1,0 +1,137 @@
+[{
+    "id": 1,
+    "listId": 1,
+    "name": "Catedral Metropolitana",
+    "image": "cm.jpg",
+    "description": "Esta catedral católica romana con capillas ornamentadas es la más grande y antigua de Latinoamérica.",
+    "latitude": 19.434353,
+    "longitude": -99.133037
+},
+{
+    "id": 2,
+    "listId": 1,
+    "name": "Basílica de Guadalupe",
+    "image": "bdg.jpg",
+    "description": "Venerada iglesia católica y sitio de peregrinación. Tiene un manto con la imagen de la Virgen de Guadalupe.",
+    "latitude": 19.484847,
+    "longitude": -99.117851
+},
+{
+    "id": 3,
+    "listId": 1,
+    "name": "Parroquia de San Juan Bautista",
+    "image": "pdsjb.jpg",
+    "description": "Iglesia barroca y antiguo convento de principios de la conquista de Cortés del México azteca en el siglo XVI.",
+    "latitude": 19.348750,
+    "longitude": -99.162404
+},
+{
+    "id": 1,
+    "listId": 2,
+    "name": "Zócalo",
+    "image": "z.jpg",
+    "description": "Plaza más importante de la ciudad de México con orígenes aztecas y sede de actividades culturales frecuentes.",
+    "latitude": 19.432592,
+    "longitude": -99.133226
+},
+{
+    "id": 2,
+    "listId": 2,
+    "name": "Alameda Central",
+    "image": "ac.jpg",
+    "description": "El parque más antiguo de la ciudad, fundado por el virrey Luís Velasco; cuenta con árboles y fuentes.",
+    "latitude": 19.435536,
+    "longitude": -99.143973
+},
+{
+    "id": 3,
+    "listId": 2,
+    "name": "Parque Hundido",
+    "image": "ph.jpg",
+    "description": "Relajado parque urbano por debajo del nivel de la calle, con senderos y un área para soltar a los perros.",
+    "latitude": 19.378505,
+    "longitude": -99.178694
+},
+{
+    "id": 4,
+    "listId": 2,
+    "name": "Plaza San Jacinto",
+    "image": "psj.jpg",
+    "description": "Esta plaza es famosa por la oferta de numerosos pintores, específicamente los sábados. Además está rodeada de interesantes casonas, como la Casa del Risco, que data del siglo XVIII.",
+    "latitude": 19.344477,
+    "longitude": -99.192247
+},
+{
+    "id": 5,
+    "listId": 2,
+    "name": "Plaza Río de Janeiro",
+    "image": "prdj.jpg",
+    "description": "Se trata de una de las plazas más famosas de la colonia Roma en la Ciudad de México, conformada por una fuente y vegetación variada.",
+    "latitude": 19.421131,
+    "longitude": -99.160433
+},
+{
+    "id": 1,
+    "listId": 3,
+    "name": "Biblioteca Central",
+    "image": "bc.jpg",
+    "description": "Extensa biblioteca universitaria ubicada en una edificación histórica y decorada con varios murales.",
+    "latitude": 19.333371,
+    "longitude": -99.187321
+},
+{
+    "id": 2,
+    "listId": 3,
+    "name": "Biblioteca Benjamín Franklin",
+    "image": "bbf.jpg",
+    "description": "Depende de la Embajada de los Estados Unidos en México. Su acervo, en su mayoría en idioma inglés, se especializa en asuntos relacionados a los Estados Unidos y al aprendizaje y enseñanza del inglés.",
+    "latitude": 19.427623,
+    "longitude": -99.157847
+},
+{
+    "id": 3,
+    "listId": 3,
+    "name": "Biblioteca Vasconcelos",
+    "image": "bv.jpg",
+    "description": "Extensa biblioteca pública con una amplia variedad de títulos en varios idiomas y diseño interior moderno.",
+    "latitude": 19.447470,
+    "longitude": -99.150830
+},
+{
+    "id": 1,
+    "listId": 4,
+    "name": "Museo de Antropología",
+    "image": "mda.jpg",
+    "description": "Popular museo de antropología que exhibe artefactos de las antiguas civilizaciones maya y azteca.",
+    "latitude": 19.426125,
+    "longitude": -99.186794
+},
+{
+    "id": 1,
+    "listId": 5,
+    "name": "Monumento a la Revolución",
+    "image": "malr.jpg",
+    "description": "Monumento famoso dedicado a la Revolución mexicana; cuenta con un mirador y un museo.",
+    "latitude": 19.436193,
+    "longitude": -99.154825
+},
+{
+    "id": 1,
+    "listId": 6,
+    "name": "Torre Latinoamericana",
+    "image": "tl.jpg",
+    "description": "Se trata de una construcción de 188 metros a través de 44 pisos, que fue también el edificio más alto de la ciudad desde su construcción en 1956 hasta 1972.",
+    "latitude": 19.433863,
+    "longitude": -99.140585
+},
+{
+    "id": 1,
+    "listId": 7,
+    "name": "iOS Development Lab ",
+    "image": "idl.png",
+    "description": "Aquí es donde se programó esta aplicación",
+    "latitude": 19.327518,
+    "longitude": -99.182339
+}
+]
+

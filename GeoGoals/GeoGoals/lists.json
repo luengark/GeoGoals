@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "name": "Iglesias",
+    "image": "church.png"
+},
+{
+    "id": 2,
+    "name": "Plazas y parques",
+    "image": "park.png"
+},
+{
+    "id": 3,
+    "name": "Bibliotecas",
+    "image": "library.png"
+},
+{
+    "id": 4,
+    "name": "Museos",
+    "image": "museum.png"
+},
+{
+    "id": 5,
+    "name": "Monumentos",
+    "image": "monument.png"
+},
+{
+    "id": 6,
+    "name": "Rascacielos",
+    "image": "skyscraper.png"
+},
+{
+    "id": 7,
+    "name": "Especiales",
+    "image": "especial.png"
+}
+]
+
